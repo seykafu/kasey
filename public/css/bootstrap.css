@@ -300,7 +300,7 @@ th {
   }
   .table td,
   .table th {
-    background-color: #fff !important;
+    background-color: #000 !important;
   }
 
   .table-bordered th,
